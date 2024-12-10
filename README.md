@@ -13,7 +13,7 @@ Este é um projeto simples de jogo inspirado no Detona Ralph.
 - JavaScript
 
 ## Captura de tela
-![Captura de Tela](./src/image/)
+![Captura de Tela](./src/image/Imagem1.png)
 
 
 
